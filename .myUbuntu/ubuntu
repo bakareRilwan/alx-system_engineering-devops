@@ -1,0 +1,9 @@
+Ubuntu 20.04
+Basic Ubuntu 20.04, with vim, emacs, curl, wget and all needed for Foundations
+
+Host - d9677b18f6e5.227e00fc.alx-cod.online
+username -  d9677b18f6e5
+password - 5874a8f8978f4c7151e1
+
+
+ssh - ssh d9677b18f6e5@d9677b18f6e5.227e00fc.alx-cod.online
